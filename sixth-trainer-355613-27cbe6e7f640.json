@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sixth-trainer-355613",
+  "private_key_id": "27cbe6e7f640f742ba790ffcc04060896dd41e4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCk5K9iMwc20llV\nTHcJdfQXxADufHoiG9jS+MQGCpR+Pn8KFhGADuGOfpAbmyPERgROj/2Y0YNqlhYq\n/YnwlxXbCkipTaNmO4YOmQh91edxkU5uwj+G+LD/RJzOjxdhBuNo/6uxPR90QzKJ\nEqxbxfx/zY/xkcW8tveiv3cyCGC6vUjWRuoroxkZoJbdt7E6agRtPMQRhSPPhTt+\nFeQ0Dav4ERyrysg+Yu7Bx23pWvV2z1L3Z1qYxAm6hAeD6jIhLwUVMV67pUY6KnOQ\nJ+XQcZkTxgAzKYMb/QNa4+puqtNXOUFelTCxi4WdhMmrirCuLjHpvzgW6EbNHMVu\n1322LAT/AgMBAAECggEAP5XP69YxmfpTaIkr/gH2NpPmqBBoKG8ElZZIQOwjhusi\nogkQhok2gXRcrciNakp1rrXn3N4uBxQJSFqsrpIUY3r7ug2uTOX3M/nfRGcP8MNP\ns3ZEeQ+9cTJMJXsYUNoPJ5Yv5xDi6DphampA/MLEM6RZNZY44iTMKX4bwLdqVZe5\n0S+o8lNQmd8pXJSzd56oD7AeqkM5cm6svb7wlSwqYxZ8ovd9hmOO+p7L7lEBoc5n\n8r8XP5Nz9op1ut+MnJuTfR84LG9G1kXp2Kr1skBgozBVm2gdzLcvxoeUq/qxCc7u\ngEDG9mIcic/cui7Z/GEW7AbCFpDkFa0m/xsTRf3RAQKBgQDTZsi2YsBdXQeWWDrs\nIOZf2pF2S5tixEGAR5InDvJ4e3FY0tK6VOCRd6AYrG6cXt7rSDn0Z0R8oev150is\no2EDaA7ZSX/D0VvoUU9iLfQz6x0ltNuSlB0UWig+DNcJZ+83eWLrb5Q2FYO3lUTu\nwSj/eCtLyWHEJHq1RcmW5SQ/EQKBgQDHrh7hL8LbC8ZFCrvl9RtEzWuLGE9Wqhkx\nzukNvITMaeU3t7OSbmatDL/H2vqcfSfRQ/kwuLlLrY7zAaHZz2iLrW57R3HlOEw7\nriTJrhkKXBvreTjbfi5AjO+WJD6gpAFDXBY9Pk726qoM4Ty4VKMbdT+AEBF213Xu\nUwLbN50jDwKBgAVjCx5Kqeg3JKhaGzZFKFms8iP3jUAZDCo+qKTCJr+XNa4zwRbq\nbsaGK9g1HKRzbm7EamWl9ALRBXhAqoNrrl8t2aMD0nOk9BiZadJwpVZlWVrKnwW/\nLHaGTZw3K4ub0GazeyfQshAmwDJ/ZUBIP8kywLevrAQZgd74pkhoEmJhAoGANnoy\nwo0dRFW6Ciwbh2mPvv2sUY6YVrShmw0wWCcOtBZQCxt7SoAEU0IfMI91wCwFKPq6\niahcJWF8lp/jYGFNzI3MjqW3VSo+4ilor/1np4PpuhygfoG2bLYGx5er3nfgQFhn\nWN4e/Q6YxlrNDh1JQryCTpYTrbCq5BKRvO03WdECgYEAudpuuUol7o4sVKXUC2Pp\nvaCxHEgJZSTW7xD7VHecDb7zlE6S/j9FyRGuTuhmrfm7oZ/WT64Y1EPu6/ITaWSi\nO3D+3H24ehHJIJu3Vmhsv40C0KVgiTabMJg94UJ8FVG4j5LfqZE/59I4cZkNf8j9\nzLikX68Kk+jQG4cMqOZGUfM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "senitment-analysis-project@sixth-trainer-355613.iam.gserviceaccount.com",
+  "client_id": "108137800329488537927",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/senitment-analysis-project%40sixth-trainer-355613.iam.gserviceaccount.com"
+}
